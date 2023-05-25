@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Readme" title="Calculator Screenshot" src="/src/assets/images/calculator_screenshot.png" />
+    <img alt="Readme" title="Calculator Screenshot" src="/dev_assets/617shots_so.png" />
 </p>
 
 <h1 align="center">Flutter Calculator</h1>
