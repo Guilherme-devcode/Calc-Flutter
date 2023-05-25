@@ -1,16 +1,39 @@
-# calc
+<p align="center">
+    <img alt="Readme" title="Calculator Screenshot" src="/src/assets/images/calculator_screenshot.png" />
+</p>
 
-A new Flutter project.
+<h1 align="center">Flutter Calculator</h1>
 
-## Getting Started
+<p align="center">
+    <a href="#about">About</a> • 
+    <a href="#features">Features</a> • 
+    <a href="#technologies">Technologies</a> • 
+    <a href="#author">Author</a> 
+</p>
 
-This project is a starting point for a Flutter application.
+### About
 
-A few resources to get you started if this is your first Flutter project:
+Flutter Calculator is a simple calculator application developed using the Flutter framework. It allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Addition, subtraction, multiplication, and division operations
+- [x] Clear button to reset the calculator
+- [x] Responsive layout for different screen sizes
+
+### Technologies
+
+The following tools and technologies were used in the development of this project:
+
+<table>
+    <tr>
+        <td><a href="https://flutter.dev/">Flutter</a></td>
+    </tr>
+    <tr>
+        <td>Version 2.8.1</td>
+    </tr>
+</table>
+
+### Author
+
+> Created by John Doe 👉 [LinkedIn Profile](https://www.linkedin.com/in/johndoe) • GitHub [johndoe](https://github.com/johndoe)
